@@ -12,11 +12,6 @@ superuser: true
 # Role/position
 role: Mestranda em Saúde Coletiva
 
-# Organizations/Affiliations
-organizations:
-- name: 
-  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: Me formei em Estatística pela Universidade Federal do Paraná em 2017. Durante a graduação,
 me identifiquei com a estatística relacionada à saúde. Em 2019, iniciei o mestrado em 
@@ -45,7 +40,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "angelalegey@gmail.com".
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/%C3%A2ngela-legey/
 - icon: github
   icon_pack: fab
