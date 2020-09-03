@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ângela Luiza Cunha Legey
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Mestranda em Saúde Coletiva
 
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
