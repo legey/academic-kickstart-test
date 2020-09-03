@@ -14,12 +14,12 @@ role: Mestranda em Saúde Coletiva
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  Formada em Estatística com interesse na estatística médica.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Análise de sobrevivência
+- Estatística médica
+- Epidemiologia
 
 education:
   courses:
