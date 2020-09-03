@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ângela Luiza Cunha Legey
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,38 +10,50 @@ authors:
 superuser: true
 
 # Role/position
-role: Mestranda em Saúde Coletiva
+role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations
+organizations:
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Formada em Estatística e com interesse na estatística médica.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Análise de sobrevivência
-- Estatística médica
-- Epidemiologia
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: Mestranda em Saúde Coletiva
-    institution: Universidade Federal do Paraná
-    year: em andamento
-  - course: Bacharel em Estatística
-    institution: Universidade Federal do Paraná
-    year: 2017
-    
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "angelalegey@gmail.com".
-- icon: linkedin
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/%C3%A2ngela-legey/
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/legey
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +70,6 @@ user_groups:
 - Visitors
 ---
 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Me formei em Estatística pela Universidade Federal do Paraná em 2017. Durante a graduação,
-me identifiquei com a estatística relacionada à saúde. Em 2019, iniciei o mestrado em 
-Saúde Coletiva com ênfase em Epidemiologia.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
