@@ -13,16 +13,14 @@ superuser: true
 role: Mestranda em Saúde Coletiva
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me formei em Estatística pela Universidade Federal do Paraná em 2017. Durante a graduação,
-me identifiquei com a estatística relacionada à saúde. Em 2019, iniciei o mestrado em 
-Saúde Coletiva com ênfase em Epidemiologia.
+bio: Formada em Estatística e com interesse na estatística médica.
 
-Interesses:
+interests:
 - Análise de sobrevivência
 - Estatística médica
 - Epidemiologia
 
-Formação:
+education:
   courses:
   - course: Mestranda em Saúde Coletiva
     institution: Universidade Federal do Paraná
@@ -30,12 +28,11 @@ Formação:
   - course: Bacharel em Estatística
     institution: Universidade Federal do Paraná
     year: 2017
-
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "angelalegey@gmail.com".
@@ -60,6 +57,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
 
 Me formei em Estatística pela Universidade Federal do Paraná em 2017. Durante a graduação,
 me identifiquei com a estatística relacionada à saúde. Em 2019, iniciei o mestrado em 
