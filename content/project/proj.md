@@ -4,10 +4,11 @@ description: "descriçao do meu post"
 slug: "estudo-gestantes"
 ---
 
-A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
-podem repercutir em longo prazo na saúde da mulher e da criança. 
+A gestação é um fenômeno biológico, 
 
-O presente estudo tem como objetivo investigar as condições de vida e saúde na gestação, puerpério e primeiro ano 
+
+e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
+podem repercutir em longo prazo na saúde da mulher e da criança. O presente estudo tem como objetivo investigar as condições de vida e saúde na gestação, puerpério e primeiro ano 
 pós-parto, em mulheres e crianças que realizam o acompanhamento em serviços de saúde. Trata-se de um estudo longitudinal com amostra representativa de gestantes que realizam 
 acompanhamento pré-natal. A coleta de dados se dará por entrevistas, com questionários semiestruturados e coleta de dados em prontuários em seis etapas. Posteriormente, os dados 
 serão organizados em planilhas, estatísticas descritivas e inferenciais serão calculadas, considerando as características das variáveis em estudo para estimar a associação entre 
