@@ -35,6 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8221632701652102
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%C3%A2ngela-legey/
