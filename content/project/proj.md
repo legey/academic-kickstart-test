@@ -5,6 +5,10 @@ summary: Durante a gestação ocorrem diversas mudanças. O objetivo desse proje
 tags:
 - gravidez
 
+image:
+  caption: 
+  focal_point: Smart
+
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 ---
