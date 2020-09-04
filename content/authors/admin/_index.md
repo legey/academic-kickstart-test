@@ -14,7 +14,7 @@ role: Mestranda em Saúde Coletiva
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Formada em Estatística com interesse na estatística médica.
+bio:  Formada em Estatística com interesse na área da Saúde.
 
 interests:
 - Análise de sobrevivência
