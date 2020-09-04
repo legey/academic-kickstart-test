@@ -94,7 +94,7 @@ phone = "888 888 88 88"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "fax", icon_pack = "fas", name= "angelalegey@gmail.com", link = "angelalegey@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name= "angelalegey@gmail.com", link = "angelalegey@gmail.com"},
   ]
 
 
