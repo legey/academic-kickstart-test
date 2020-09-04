@@ -1,18 +1,25 @@
-
 ---
 title: Estudo das condições de vida e saúde na gestação e puerpério
 summary: Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes.
 tags:
-- gravidez
+- Deep Learning
 
-image:
-  caption: 
-  focal_point: Smart
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ""
----
+external_link: ""
 
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
 podem repercutir em longo prazo na saúde da mulher e da criança. O presente estudo tem como objetivo investigar as condições de vida e saúde na gestação, puerpério e primeiro ano 
