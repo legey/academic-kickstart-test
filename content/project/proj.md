@@ -1,8 +1,9 @@
 ---
 title: "Estudo das condições de vida e saúde na gestação e puerpério"
-description: ""
+description: "Estudo realizado com gestantes"
 slug: "estudo-gestantes"
 ---
+
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
 podem repercutir em longo prazo na saúde da mulher e da criança. O presente estudo tem como objetivo investigar as condições de vida e saúde na gestação, puerpério e primeiro ano 
