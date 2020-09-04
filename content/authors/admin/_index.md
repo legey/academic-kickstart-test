@@ -27,7 +27,7 @@ education:
   courses:
   - course: Mestranda em Saúde Coletiva
     institution: Universidade Federal do Paraná
-    year: em andamento
+    year: 2019
   - course: Bacharel em Estatística
     institution: Universidade Federal do Paraná
     year: 2017
