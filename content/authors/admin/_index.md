@@ -18,8 +18,10 @@ bio:  Formada em Estatística com interesse na estatística médica.
 
 interests:
 - Análise de sobrevivência
-- Estatística médica
+- Bioestatística
 - Epidemiologia
+- Estatística médica
+
 
 education:
   courses:
