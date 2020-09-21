@@ -1,13 +1,7 @@
 ---
-title: Qualidade de vida em idosos
-summary: Associação com características demográficas, comportamentais e 
-estado de saúde
-authors:
-- admin
+title: "Qualidade de vida em idosos"
+summary: Associação com características demográficas, comportamentais e saúde
 tags: [Qualidade de vida]
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
 featured: false
 draft: false
 
