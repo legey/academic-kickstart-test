@@ -1,6 +1,6 @@
 ---
-title: "Impacto de Peritonites na Mortalidade Cardiovascular Tardia em Pacientes em Diálise Peritonial"
-description: "Trabalho de Conclusão de Curso"
+title: "Impacto de Peritonites na Mortalidade Cardiovascular"
+summary: "Trabalho de Conclusão de Curso"
 tags: ["R","TCC"]
 image:
   focal_point: Smart
