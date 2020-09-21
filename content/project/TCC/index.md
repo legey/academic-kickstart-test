@@ -1,5 +1,5 @@
 ---
-title: "Impacto de Peritonites na Mortalidade Cardiovascular"
+title: "Impacto da Peritonite na Mortalidade Cardiovascular"
 summary: "Trabalho de Conclusão de Curso"
 tags: ["R","TCC"]
 image:
