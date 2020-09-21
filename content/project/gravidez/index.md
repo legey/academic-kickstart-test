@@ -9,7 +9,6 @@ date: "2020-09-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 
