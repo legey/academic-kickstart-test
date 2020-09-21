@@ -32,6 +32,6 @@ interesse em predições.
 
 ### Material produzido:
 
-- [Texto](static/img/tcc/CC-versão final.pdf)
+- [Texto](static/img/tcc/TCC-versão final.pdf)
 
 
