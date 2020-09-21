@@ -4,7 +4,7 @@ summary: "Trabalho de Conclusão de Curso"
 tags: ["R","TCC"]
 image:
   focal_point: Smart
-slug: "post-tcc"
+slug: "tcc"
 ---
 
 ---
