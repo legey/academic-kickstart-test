@@ -2,9 +2,16 @@
 title: "Estudo das condições de vida e saúde na gestação e puerpério"
 summary: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
 tags: ["Qualidade de vida"]
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Photo by rawpixel on Unsplash"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 ---
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
