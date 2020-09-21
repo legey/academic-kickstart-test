@@ -33,6 +33,6 @@ interesse em predições.
 
 ### Material produzido:
 
-- [Texto](academic-kickstart-test/content/post/TCC/TCC-versão final.pdf)
+- [Texto](TCC-versão final.pdf)
 
 
