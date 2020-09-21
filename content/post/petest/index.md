@@ -1,8 +1,6 @@
 ---
 title: Atividades acadêmicas
 summary: Atividades desenvolvidas durante a graduação
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
   focal_point: ""
