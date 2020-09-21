@@ -35,6 +35,8 @@ interesse em predições.
 
 ### Material produzido:
 
-- [Texto](https://drive.google.com/file/d/1n0cZjZp9dYa_OiPU5JrA-wCqNosIWGks/view)
+- [Texto completo](https://drive.google.com/file/d/1n0cZjZp9dYa_OiPU5JrA-wCqNosIWGks/view)
+
+- [Apresentação](https://drive.google.com/file/d/1qCDTMGuVH2rdE_LGJXtSinMIg-jlS9Vf/view)
 
 
