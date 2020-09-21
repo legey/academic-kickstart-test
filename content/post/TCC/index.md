@@ -33,6 +33,6 @@ interesse em predições.
 
 ### Material produzido:
 
-- [Texto](TCC-versão final.pdf)
+- [Texto](https://drive.google.com/file/d/1n0cZjZp9dYa_OiPU5JrA-wCqNosIWGks/view)
 
 
