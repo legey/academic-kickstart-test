@@ -1,6 +1,6 @@
 ---
 title: "Condições de vida e saúde na gestação"
-summary: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
+summary: "O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
 tags:
 - Qualidade de vida
 date: "2020-09-04T00:00:00Z"
