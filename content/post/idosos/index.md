@@ -1,7 +1,7 @@
 ---
 title: "Qualidade de vida em idosos"
 summary: Associação com características demográficas, comportamentais e saúde
-tags: [Qualidade de vida]
+tags: [Qualidade de vida, coautoria]
 featured: false
 draft: false
 
@@ -21,32 +21,16 @@ projects: []
 
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+A proporção da população idosa vem aumentando no Brasil devido ao aumento da
+expectativa de vida e à diminuição da taxa de fecundidade. O objetivo foi
+deste trabalho foi analisar a QV e a associação com fatores
+socioeconômicos, demográficos, comportamentais, estado e autopercepção de saúde
+entre idosos da área de abrangência de uma Unidade de Saúde de Colombo/PR.
+.
 
+O trabalho foi desenvolvido pela [Evelyn Opuszka Acacio](https://www.linkedin.com/in/evelyn-opuszka-acacio-7b942553/?originalSubdomain=br), 
+sob orientação da 
+[Doroteia Aparecida Höfelmann](http://lattes.cnpq.br/8255268283219203) e 
+finalizado por mim.
 
-
-
-![png](./index_1_0.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+Este trabalho foi apresentado no [II Congresso de Saúde Coletiva](https://drive.google.com/file/d/1fEZPuW41EUcYCjRaKZFvK27MVOVp35Gd/view).
