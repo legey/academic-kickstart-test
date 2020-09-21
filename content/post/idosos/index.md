@@ -1,33 +1,57 @@
 ---
-title: 'Qualidade de vida em idosos'
-summary: Associação com características demográficas, comportamentais e 
-estado de saúde
-tags:
-- coautoria
-- Qualidade de vida
+title: Display Jupyter Notebooks with Academic
+subtitle: Learn how to blog in Academic using Jupyter notebooks
+summary: Learn how to blog in Academic using Jupyter notebooks
+authors:
+- admin
+tags: []
+categories: []
+date: "2019-02-05T00:00:00Z"
+lastMod: "2019-09-05T00:00:00Z"
+featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 2
+  caption: ""
   focal_point: ""
-  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-slug: "idosos"
 ---
 
-A proporção da população idosa vem aumentando no Brasil devido ao aumento da
-expectativa de vida e à diminuição da taxa de fecundidade. O objetivo foi
-deste trabalho foi analisar a QV e a associação com fatores
-socioeconômicos, demográficos, comportamentais, estado e autopercepção de saúde
-entre idosos da área de abrangência de uma Unidade de Saúde de Colombo/PR.
-.
+```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+
+
+
+
+![png](./index_1_0.png)
+
+
+
+
+```python
+print("Welcome to Academic!")
+```
+
+    Welcome to Academic!
+
+
+## Install Python and JupyterLab
+
+[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+
+Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+
+## Create or upload a Jupyter notebook
+
+Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
