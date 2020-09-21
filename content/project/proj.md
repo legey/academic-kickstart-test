@@ -4,23 +4,11 @@ summary: Durante a gestação ocorrem diversas mudanças. O objetivo desse proje
 tags:
 - Qualidade de vida
 
-
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "gravidez.jpg"
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
