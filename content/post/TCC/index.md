@@ -32,6 +32,6 @@ interesse em predições.
 
 ### Material produzido:
 
-- [Texto](static/img/tcc/TCC-versão final.pdf)
+- [Texto](https://github.com/legey/academic-kickstart-test/blob/master/static/img/tcc/TCC-vers%C3%A3o%20final.pdf)
 
 
