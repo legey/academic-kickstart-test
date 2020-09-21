@@ -1,27 +1,26 @@
-+++
-# Project title.
-title = "Estudo das condições de vida e saúde na gestação e puerpério"
+---
+title: "Estudo das condições de vida e saúde na gestação e puerpério"
+summary: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
+tags:
+- Qualidade de vida
+date: "2020-09-04T00:00:00Z"
 
-# Date this page was created.
-date = 2019-01-06T00:00:00
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-# Project summary to display on homepage.
-summary = "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags: ["Qualidade de vida"]
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
 podem repercutir em longo prazo na saúde da mulher e da criança. O presente estudo tem como objetivo investigar as condições de vida e saúde na gestação, puerpério e primeiro ano 
