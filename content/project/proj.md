@@ -1,6 +1,6 @@
 ---
 title: "Estudo das condições de vida e saúde na gestação e puerpério"
-description: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
+summary: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
 tags: ["Qualidade de vida"]
 ---
 
