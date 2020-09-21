@@ -2,7 +2,7 @@
 title: Estudo das condições de vida e saúde na gestação e puerpério
 summary: Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes.
 tags:
-- Deep Learning
+- Qualidade de vida
 
 
 # Optional external URL for project (replaces project detail page).
@@ -12,6 +12,8 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "gravidez.jpg"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
