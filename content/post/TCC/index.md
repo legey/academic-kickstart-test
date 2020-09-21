@@ -16,7 +16,9 @@ A diálise é o tratamento mais utilizado para pacientes com insuficiência rena
 Dentre os brasileiros, mais de 50 mil estavam em diálise no ano de 2014 dos quais aproximadamente
 3400 faziam diálise peritoneal. Existe a preocupação do bem estar desses
 pacientes, sendo a peritonite uma infecção comum. A peritonite também está sendo associada
-a doenças cardiovasculares tardias. Neste contexto, as análises feitas neste trabalho
+a doenças cardiovasculares tardias. 
+
+Neste contexto, as análises feitas neste trabalho
 tiveram como objetivo identificar a associação entre os episódios da peritonite e morte por
 DCV, e determinar fatores importantes para sobrevida dos 5691 pacientes acompanhados
 que faziam diálise peritoneal em 122 centros de diálise no Brasil, no período de Dezembro
@@ -24,7 +26,6 @@ de 2004 a Janeiro de 2011.
 
 Foi ajustado o modelo multiestados. Com base neste modelo,
 foi possível observar o risco entre as transições de episódios de peritonite.
-
 A abordagem de multiestados mostrou-se flexível o bastante para acomodar várias
 situações complexas, sobretudo nas áreas industrial e empresarial que, em geral, têm
 interesse em predições.
