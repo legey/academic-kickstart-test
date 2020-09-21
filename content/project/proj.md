@@ -12,6 +12,7 @@ tags = ["Qualidade de vida"]
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "gravidez.jpg"
 +++
+
 ---
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
