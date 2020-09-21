@@ -2,11 +2,7 @@
 title: 'Atividades'
 summary: Create a beautifully simple website in under 10 minutes.
 tags:
-- Academic
-categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- R
 draft: false
 
 # Featured image
@@ -15,7 +11,6 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
 
@@ -25,8 +20,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+slug: "pet-est"
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+Em minha graduação, eu fiz parte do 
+[PET Estatística UFPR](https://pet.leg.ufpr.br/),
+no qual eu desenvolvi algumas atividades.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+Dentre elas, foi a pesquisa individual sob orientação da professora
+[Silvia Emiko Shimakura](http://lattes.cnpq.br/4949546028857946), com o objetivo
+de estudar mais a fundo sobre análise de sobrevivência o que acabou me 
+despertando para a estatística na saúde. Apresentei minha pesquisa individual no XXII SINAPE em formato de poster.
