@@ -35,6 +35,3 @@ identificar a magnitude de associação das condições de vida e saúde na gest
 
 **Coordenadora:** [Doroteia Aparecida Höfelmann](http://lattes.cnpq.br/8255268283219203)
 
-**Integrantes:** Aline Mateus Simões; Andressa Cristino de Oliveira; Bárbara Moreira de Castilho; Betina Harmel; Bruna Rafaella Cordeiro; Gabriela Fraco; 
-Renata Cordeiro Fernandes; Tainá Baldicera Beltrame; Tainá Camila Siqueira; Tatiane Irene de Oliveira.
-
