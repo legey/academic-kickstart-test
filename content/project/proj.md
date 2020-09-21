@@ -1,18 +1,7 @@
-+++
-# Project title.
-title = "Estudo das condições de vida e saúde na gestação e puerpério"
-
-# Project summary to display on homepage.
-summary: Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes.
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Qualidade de vida"]
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "gravidez.jpg"
-+++
-
+---
+title: "Estudo das condições de vida e saúde na gestação e puerpério"
+description: "Durante a gestação ocorrem diversas mudanças. O objetivo desse projeto é verificar as condições relações a saúde de gestantes."
+tags: ["Qualidade de vida"]
 ---
 
 A gestação é um fenômeno biológico, e pode ser considerado como parte de uma experiência de vida saudável que envolve mudanças físicas, sociais, emocionais e psicológicas, que 
