@@ -3,8 +3,8 @@ title: 'Qualidade de vida em idosos'
 summary: Associação com características demográficas, comportamentais e 
 estado de saúde
 tags:
-- Qualidade de vida
 - coautoria
+- Qualidade de vida
 draft: false
 
 # Featured image
@@ -30,8 +30,7 @@ expectativa de vida e à diminuição da taxa de fecundidade. O objetivo foi
 deste trabalho foi analisar a QV e a associação com fatores
 socioeconômicos, demográficos, comportamentais, estado e autopercepção de saúde
 entre idosos da área de abrangência de uma Unidade de Saúde de Colombo/PR.
-O trabalho foi desenvolvido pela 
-[Evelyn Opuszka Acacio](https://www.linkedin.com/in/evelyn-opuszka-acacio-7b942553/?originalSubdomain=br), 
+O trabalho foi desenvolvido pela [Evelyn Opuszka Acacio](https://www.linkedin.com/in/evelyn-opuszka-acacio-7b942553/?originalSubdomain=br), 
 sob orientação da 
 [Doroteia Aparecida Höfelmann](http://lattes.cnpq.br/8255268283219203) e 
 finalizado por mim.
