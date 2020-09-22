@@ -43,12 +43,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4295-4182
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/%C3%A2ngela-legey/
 - icon: github
   icon_pack: fab
   link: https://github.com/legey
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%C3%A2ngela-legey/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/angela_legey/
