@@ -40,6 +40,9 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/8221632701652102
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4295-4182
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%C3%A2ngela-legey/
@@ -49,6 +52,7 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/angela_legey/
+  
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
