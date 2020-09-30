@@ -37,9 +37,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: cv
-#  icon_pack: ai
-#  link:{{% staticref "files/cv-angela.pdf" %}}Download my CV{{% /staticref %}}.
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/8221632701652102
@@ -61,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-  link: files/cv.pdf
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
