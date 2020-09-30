@@ -54,7 +54,7 @@ social:
   link: https://www.instagram.com/angela_legey/
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv-angela.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
