@@ -39,7 +39,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1phai10pzbN3R1Cgg4FeZONEM5q5HNDA0/view
+  link: https://legey.netlify.app/static/admin/cv-angela.pdf
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/8221632701652102
