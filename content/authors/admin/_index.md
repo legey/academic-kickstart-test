@@ -37,6 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: cv
+  icon_pack: ai
+  link: files/cv-angela.pdf
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/8221632701652102
@@ -52,9 +55,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/angela_legey/
-- icon: cv
-  icon_pack: ai
-  link: files/cv-angela.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
