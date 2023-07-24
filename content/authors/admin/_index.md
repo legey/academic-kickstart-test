@@ -10,24 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Mestranda em Saúde Coletiva
+role: Mestre em Saúde Coletiva
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Formada em Estatística com interesse na área da Saúde.
+bio:  Formada em Estatística com interesse na área de dados
 
 interests:
-- Análise de sobrevivência
+- Banco de dados
+- Análise de dados
 - Bioestatística
 - Epidemiologia
-- Estatística médica
 
 
 education:
   courses:
-  - course: Mestranda em Saúde Coletiva
+  - course: Meste em Saúde Coletiva
     institution: Universidade Federal do Paraná
-    year: 2019
+    year: 2021
   - course: Bacharel em Estatística
     institution: Universidade Federal do Paraná
     year: 2017
@@ -66,6 +66,5 @@ user_groups:
 - Visitors
 ---
 
-Me formei em Estatística pela Universidade Federal do Paraná em 2017. Durante a graduação,
-me identifiquei com a estatística relacionada à saúde. Em 2019, iniciei o mestrado em 
-Saúde Coletiva com ênfase em Epidemiologia.
+Me formei em Estatística pela Universidade Federal do Paraná em 2017. Em 2019, iniciei o mestrado em 
+Saúde Coletiva com ênfase em Epidemiologia. Me interesso pela análise de dados e banco de dados.
