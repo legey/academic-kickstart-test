@@ -33,7 +33,7 @@ identificar a magnitude de associação das condições de vida e saúde na gest
 
 **Situação:** Em andamento.
 
-**Artigo publicado:** [Disponível aqui](https://www.scielo.org.mx/scielo.php?pid=S0185-33252022000600283&script=sci_abstract&tlng=en)
+**Artigo publicado:** [Disponível aqui](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-33252022000600283&lng=es&nrm=iso&tlng=en)
 
 **Coordenadora:** [Doroteia Aparecida Höfelmann](http://lattes.cnpq.br/8255268283219203)
 
