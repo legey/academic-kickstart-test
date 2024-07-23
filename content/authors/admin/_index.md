@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  - course: Tecnologia em Ciência de Dados
+    institution: UNINTER
+    year: Previsão 2025
   - course: Meste em Saúde Coletiva
     institution: Universidade Federal do Paraná
     year: 2021
