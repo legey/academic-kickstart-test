@@ -18,16 +18,16 @@ bio:  Formada em Estatística com interesse na área de dados
 
 interests:
 - Banco de dados
-- Análise de dados
+- Engenharia de dados
 - Bioestatística
 - Epidemiologia
 
 
 education:
   courses:
-  - course: Tecnologia em Ciência de Dados
+  - course: Ciência de Dados
     institution: UNINTER
-    year: Previsão 2025
+    year: 2025
   - course: Meste em Saúde Coletiva
     institution: Universidade Federal do Paraná
     year: 2021
