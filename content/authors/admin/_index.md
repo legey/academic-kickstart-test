@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Me formei em Estatística pela Universidade Federal do Paraná em 2017. Em 2019, iniciei o mestrado em 
-Saúde Coletiva com ênfase em Epidemiologia. Me interesso pela análise de dados e banco de dados.
+Me formei em Estatística pela Universidade Federal do Paraná em 2017. Em 2021, finalizei o mestrado em 
+Saúde Coletiva com ênfase em Epidemiologia. Atualmente, cursando Ciência de dados.
